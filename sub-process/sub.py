@@ -1,2 +1,2 @@
 import flask
-print("sub program, pandas version:", flask.__version__)
+print("sub program, flask version:", flask.__version__)
